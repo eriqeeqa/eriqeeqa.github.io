@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eriqeeqa.github.io/AGf/sitemap_index.txt
+Sitemap: https://eriqeeqa.github.io/JPN/sitemap_index.txt
+Sitemap: https://eriqeeqa.github.io/NCw/sitemap_index.txt
+Sitemap: https://eriqeeqa.github.io/gBt/sitemap_index.txt
